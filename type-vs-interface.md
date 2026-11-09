@@ -1,7 +1,6 @@
 # Type vs Interface
 
-**Introduction:**  
-
+**Introduction:** </br>
 TypeScript provides two powerful ways to define the shape of data: type and interface. Both help developers create reusable, maintainable, and type-safe code.
 
 **What is an Interface?** </br>
