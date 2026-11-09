@@ -7,18 +7,17 @@ The assignment focuses on practicing TypeScript fundamentals, problem-solving, a
 
 **Topics Covered**  
 
-TypeScript Basic Types and Functions
-Union Types and Type Narrowing
-Readonly Tuples
-Generics and Interfaces
-Promises and Async/Await
-OOP and Access Modifiers  
+TypeScript Basic Types and Functions </br>
+Union Types and Type Narrowing</br>
+Readonly Tuples</br>
+Generics and Interfaces</br>
+Promises and Async/Await</br>
+OOP and Access Modifiers  </br>
 
 **Project Structure:**
-text
 ├── solutions.ts
-├── type-vs-interface.md
 ├── access-modifiers.md
+├── type-vs-interface.md
 └── README.md
 
 **Blog Posts:**  
