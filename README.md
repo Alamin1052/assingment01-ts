@@ -14,7 +14,7 @@ Generics and Interfaces</br>
 Promises and Async/Await</br>
 OOP and Access Modifiers  </br>
 
-**Project Structure:**
+**Project Structure:** </br>
 ├── solutions.ts </br>
 ├── access-modifiers.md </br>
 ├── type-vs-interface.md </br>
@@ -22,8 +22,8 @@ OOP and Access Modifiers  </br>
 
 **Blog Posts:**  
 
-type-vs-interface.md 
+1. [Type vs Interface](./type-vs-interface.md)
 
-access-modifiers.md 
+2. [Access Modifiers in TypeScript OOP](./access-modifiers.md)
 
 Purpose: To strengthen my TypeScript knowledge through practical coding problems and technical blog writing.
