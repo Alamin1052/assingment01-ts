@@ -15,15 +15,15 @@ Promises and Async/Await</br>
 OOP and Access Modifiers  </br>
 
 **Project Structure:**
-├── solutions.ts
-├── access-modifiers.md
-├── type-vs-interface.md
-└── README.md
+├── solutions.ts </br>
+├── access-modifiers.md </br>
+├── type-vs-interface.md </br>
+└── README.md</br>
 
 **Blog Posts:**  
 
-Type vs Interface  
+type-vs-interface.md 
 
-Access Modifiers in TypeScript OOP  
+access-modifiers.md 
 
 Purpose: To strengthen my TypeScript knowledge through practical coding problems and technical blog writing.
